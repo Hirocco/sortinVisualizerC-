@@ -1,0 +1,14 @@
+﻿  sfml_app.cpp
+D:\VSProjekty\sfml-projects\sort_visualizer_better\sfml_app\sfml_app.cpp(117,29): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\VSProjekty\sfml-projects\sort_visualizer_better\sfml_app\sfml_app.cpp(125,27): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\VSProjekty\sfml-projects\sort_visualizer_better\sfml_app\sfml_app.cpp(165,29): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\VSProjekty\sfml-projects\sort_visualizer_better\sfml_app\sfml_app.cpp(173,27): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\VSProjekty\sfml-projects\sort_visualizer_better\sfml_app\sfml_app.cpp(233,29): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\VSProjekty\sfml-projects\sort_visualizer_better\sfml_app\sfml_app.cpp(241,29): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\VSProjekty\sfml-projects\sort_visualizer_better\sfml_app\sfml_app.cpp(277,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 88 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  sfml_app.vcxproj -> D:\VSProjekty\sfml-projects\sort_visualizer_better\x64\Release\sfml_app.exe
